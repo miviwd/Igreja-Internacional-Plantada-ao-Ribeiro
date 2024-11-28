@@ -229,6 +229,10 @@ nav {
   .event__details {
     font-size: 0.9rem;
   }
+
+  .logo_dot{
+    display: block;
+  }
 }
 
 
