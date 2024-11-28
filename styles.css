@@ -16,8 +16,8 @@
   margin: 0;
   box-sizing: border-box;
 }
-.logo-dote{
-  display: block;
+.logo-dot{
+  display: none;
 }
 .section__container {
   max-width: var(--max-width);
@@ -216,7 +216,9 @@ nav {
   .section__header {
     font-size: 1.75rem;
   }
-
+.logo-dote{
+  display: block;
+}
   /* Ajuste do tamanho da fonte do texto do evento */
   .event__card h3 {
     font-size: 1.3rem;
