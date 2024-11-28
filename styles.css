@@ -17,7 +17,7 @@
   box-sizing: border-box;
 }
 .logo-dot{
-  display: none;
+  display: ;
 }
 .section__container {
   max-width: var(--max-width);
